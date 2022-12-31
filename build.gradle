@@ -25,7 +25,7 @@ tasks.withType(JavaCompile) {
 }
 
 application {
-//    mainModule = 'com.example.demo'
+    mainModule = 'com.example.demo'
     mainClass = 'com.example.demo.PongApp'
 }
 
